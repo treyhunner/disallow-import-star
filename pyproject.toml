@@ -27,9 +27,9 @@ dependencies = []
 dynamic = ["version"]
 
 [project.urls]
-Documentation = "https://github.com/unknown/disallow-import-star#readme"
-Issues = "https://github.com/unknown/disallow-import-star/issues"
-Source = "https://github.com/unknown/disallow-import-star"
+Documentation = "https://github.com/treyhunner/disallow-import-star#readme"
+Issues = "https://github.com/treyhunner/disallow-import-star/issues"
+Source = "https://github.com/treyhunner/disallow-import-star"
 
 [tool.hatch.version]
 path = "disallow_import_star/__about__.py"
