@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "disallow-import-star"
-description = ''
+description = 'Impose your will on your users'
 readme = "README.md"
 requires-python = ">=3.7"
 license = "MIT"
